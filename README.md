@@ -6,8 +6,8 @@ Destroy aliens and don't give them pass over you.
 Replenish ammo and health up bonuses will help you every 30 seconds!
 
 # Game Controls
-Move: WASD
-Fire: SPACE
-Reload: R
+* Move: WASD
+* Fire: SPACE
+* Reload: R
 
 
